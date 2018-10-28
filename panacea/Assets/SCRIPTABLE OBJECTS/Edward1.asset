@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44f049553161c12499eef541077863c8, type: 3}
+  m_Name: Edward1
+  m_EditorClassIdentifier: 
+  namedate: Edward
+  topic: Eddi Meddi
+  soundFile: {fileID: 8300000, guid: 86b564dad5b47e841b3132960f74cc40, type: 3}
+  soundObject: {fileID: 1764655287515480, guid: a841eef4d6c13144986fa561cc0285b8,
+    type: 2}
